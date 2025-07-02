@@ -10,11 +10,13 @@
 - ✅ Completed **Google Data Analytics Professional Certificate**.
 - 🎯 Currently pursuing **Google Advanced Data Analytics Professional Certificate**.
 
+<br><br>
 
 ## 📬 How to Reach Me
 - 📧 Email: saifurecono@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/saifur-rahman-55b373258)
 
+<br><br>
 
 ## 🛠️ Skills
 
@@ -27,25 +29,29 @@
 - Extract, Transform & Load (ETL)
 - Machine Learning (ML), Time Series Forecasting Model
 
-
+<br><br>
 
 ## 👩‍💻 Projects
 
+<br>
 
 ### 📘Project on Machine Learning Model with R
 
 **•	Diabetes Prediction with R: A Machine Learning Approach:** Click [HERE](https://github.com/SaifurUnitec/Diabetes_Predictions_With_R.git)
 
+<br>
 
 ### 📊Project on Microsoft Power BI
 
 **•	Superstore Regional Sales Performance Power BI Dashboard:** Click [HERE](https://github.com/SaifurUnitec/Superstore_Regional_Sales_Performance_Power_BI_Dashboard.git)
 
+<br>
 
 ### 🌟Project on Tableau
 
 **•	Data Science Salary Trends: A Statistical Analysis with Tableau Dashboards:** Click [HERE](https://github.com/SaifurUnitec/Data_Science_Salary_Trends_A_Statistical_Analysis_with_Tableau_Dashboards.git)
 
+<br><br>
 
 ## 📚 Educational Background
 - 🎓 **Master of Applied Business (Business Analytics)** – Unitec Institute of Technology (Ongoing)
