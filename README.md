@@ -27,7 +27,9 @@
 - Extract, Transform & Load (ETL)
 - Machine Learning (ML), Time Series Forecasting Model
 
-## Projects
+## 👩‍💻 Projects
+**🚀Project on Machine Learning Model with R🚀**
+**•	Diabetes Prediction with R: A Machine Learning Approach.** [Click HERE](https://github.com/SaifurUnitec/Diabetes_Predictions_With_R.git)
 
 
 ## 📚 Educational Background
