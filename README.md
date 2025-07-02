@@ -27,6 +27,8 @@
 - Extract, Transform & Load (ETL)
 - Machine Learning (ML), Time Series Forecasting Model
 
+## Projects
+
 
 ## 📚 Educational Background
 - 🎓 **Master of Applied Business (Business Analytics)** – Unitec Institute of Technology (Ongoing)
