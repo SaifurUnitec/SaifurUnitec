@@ -40,7 +40,7 @@
 <br>
 ### 🟩Project on Microsoft Excel
 
-**•	Excel Dashboard: Bank Loan Data Overview:** Click [HERE](https://github.com/SaifurUnitec/Diabetes_Predictions_With_R.git)
+**•	Excel Dashboard: Bank Loan Data Overview:** Click [HERE](https://github.com/SaifurUnitec/Excel_Dashboard_-_Bank_Loan_Data_Overview.git))
 <br>
 ### 📊Project on Microsoft Power BI
 
