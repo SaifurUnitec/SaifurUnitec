@@ -38,6 +38,10 @@
 
 **•	Diabetes Prediction with R: A Machine Learning Approach:** Click [HERE](https://github.com/SaifurUnitec/Diabetes_Predictions_With_R.git)
 <br>
+### 🟩Project on Microsoft Excel
+
+**•	Excel Dashboard: Bank Loan Data Overview:** Click [HERE](https://github.com/SaifurUnitec/Diabetes_Predictions_With_R.git)
+<br>
 ### 📊Project on Microsoft Power BI
 
 **•	Superstore Regional Sales Performance Power BI Dashboard:** Click [HERE](https://github.com/SaifurUnitec/Superstore_Regional_Sales_Performance_Power_BI_Dashboard.git)
