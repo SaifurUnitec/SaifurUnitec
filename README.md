@@ -42,7 +42,7 @@
 
 **•	Excel Dashboard: Bank Loan Data Overview:** Click [HERE](https://github.com/SaifurUnitec/Excel_Dashboard_-_Bank_Loan_Data_Overview.git)
 
-**•	Excel Dashboard: Employee Overview Dashboard:** Click [HERE](https://github.com/SaifurUnitec/Employee_Overview_Dashboard.git)
+**•	Excel Dashboard: Employee Overview Dashboard:Key HR Metrics:** Click [HERE](https://github.com/SaifurUnitec/Employee_Overview_Dashboard.git)
 <br>
 ### 📊Project on Microsoft Power BI
 
